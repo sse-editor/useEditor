@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sse-editor/use.git"
+    "url": "git+https://github.com/sse-editor/useEditor.git"
   },
   "author": "SSE World",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sse-editor/use/issues"
+    "url": "https://github.com/sse-editor/useEditor/issues"
   },
-  "homepage": "https://github.com/sse-editor/use#readme"
+  "homepage": "https://github.com/sse-editor/useEditor#readme"
 }
