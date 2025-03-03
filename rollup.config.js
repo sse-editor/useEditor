@@ -59,10 +59,16 @@ export default [
         file: path.join(process.cwd(), "dist", `index.js`),
         format: "es",
       },
-      {
-        file: path.join(process.cwd(), "dist", `index.browser.js`),
-        format: "iife",
-      },
+      // {
+      //   extend: true,
+      //   file: path.join(process.cwd(), "dist", `index.browser.js`),
+      //   format: "iife",
+      //   name: "sse-editor",
+      //   globals: {
+      //     react: "React",
+      //     "@sse-editor/types": "SSEEditor",
+      //   },
+      // },
     ],
     plugins: [
       typescript({
