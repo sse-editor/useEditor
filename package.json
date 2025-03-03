@@ -28,7 +28,7 @@
   "homepage": "https://github.com/sse-editor/useEditor#readme",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^16.0.0",
-    "@sse-editor/editor.js": "^1.0.0-alpha-1",
+    "@sse-editor/editor.js": "^1.0.1",
     "@sse-editor/types": "^1.1.0",
     "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-typescript2": "^0.36.0"
